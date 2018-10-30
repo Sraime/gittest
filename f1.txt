@@ -1,2 +1,3 @@
 c'est un Fichier
-il est Beau mon Fichier
+il est Beau Fichier
+c'est bien git
