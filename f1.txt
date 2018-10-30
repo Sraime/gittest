@@ -1,2 +1,2 @@
-c'est un fichier
-il est beau mon fichier
+c'est un Fichier
+il est Beau mon Fichier
